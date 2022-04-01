@@ -1,7 +1,7 @@
 apiVersion: v1
 data:
   welcome: |
-    welcome-test
+    welcome-test-2
 kind: ConfigMap
 metadata:
   name: welcome
