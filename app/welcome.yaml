@@ -1,0 +1,8 @@
+apiVersion: v1
+data:
+  welcome: |
+    welcome-test
+kind: ConfigMap
+metadata:
+  name: welcome
+  namespace: spring-petclinic-test
